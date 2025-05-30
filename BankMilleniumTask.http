@@ -1,0 +1,6 @@
+@BankMilleniumTask_HostAddress = http://localhost:5189
+
+GET {{BankMilleniumTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
